@@ -1,5 +1,6 @@
 {
-  "name": "react-hooks",
+  "name": "todoApp_react-hooks",
+  "author": "Divine Nature",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
